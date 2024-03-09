@@ -40,6 +40,7 @@ INSTALLED_APPS = [
     'cart.apps.CartConfig',
     'django_cleanup',
     'orders.apps.OrdersConfig',
+    'payment.apps.PaymentConfig',
 ]
 
 MIDDLEWARE = [
@@ -138,3 +139,8 @@ CART_SESSION_ID = 'cart'
 # EMAIL_USE_TLS = True
 
 EMAIL_BACKEND = 'django.core.mail.backends.console.EmailBackend'
+
+# Stripe властивості
+STRIPE_PUBLISHABLE_KEY = 'pk_test_51OsFlTAFwwr4x13GJEABf6BDHWI9wperJHQNZ86eQZ1PdXsgpd6AjeRLyUgRWIdkRoyAuxtLdBnpoyav0pgF8hEt00hU95aKRm' # Publishable key
+STRIPE_SECRET_KEY = 'sk_test_51OsFlTAFwwr4x13GnXKrtb5ACkkefKV6Gh18USt3WXPT6sV15OJXmb6vZUFX557irSIWO5YEoHmTCnV7MFOGSrr900aIcLDNAd'      # Secret key
+STRIPE_API_VERSION = '2022-08-01'
