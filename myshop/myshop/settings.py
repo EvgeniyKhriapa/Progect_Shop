@@ -41,6 +41,7 @@ INSTALLED_APPS = [
     'django_cleanup',
     'orders.apps.OrdersConfig',
     'payment.apps.PaymentConfig',
+    'coupons.apps.CouponsConfig',
 ]
 
 MIDDLEWARE = [

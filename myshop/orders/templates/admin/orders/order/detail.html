@@ -50,13 +50,13 @@
     </tr>
     <tr>
       <th>Статус</th>
-      <td>{% if order.paid %}Paid{% else %}Очікування платежу{% endif %}</td>
+      <td>{% if order.paid %}Оплачено{% else %}Очікування платежу{% endif %}</td>
     </tr>
     <tr>
       <th>Платіж</th>
       <td>
         {% if order.stripe_id %}
-        <a href="{{ order.get_stripe_url }}" target="_blank">
+          <a href="{{ order.get_stripe_url }}" target="_blank">
             {{ order.stripe_id }}
           </a>
         {% endif %}
