@@ -1,5 +1,9 @@
 from django.db import models
+from django.conf import settings
 from shop.models import Product
+from coupons.models import Coupon
+from decimal import Decimal
+from django.core.validators import MinValueValidator, MaxValueValidator
 
 
 class Order(models.Model):
