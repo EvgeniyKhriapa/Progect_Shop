@@ -4,6 +4,10 @@ body {
     margin:0;
     padding:0;
     font-family:helvetica, sans-serif;
+    background-image: url('/static/img/img_fon.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
 }
 
 h1, h2, h3, h4, h5 , h6 {
@@ -315,7 +319,6 @@ ul.errorlist {
     width:120px;
 }
 
-/* braintree hosted fields */
 form div.field {
     font-size:13px;
     color:#666;
