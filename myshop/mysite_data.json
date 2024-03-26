@@ -1,0 +1,1523 @@
+[
+{
+  "model": "admin.logentry",
+  "pk": 1,
+  "fields": {
+    "action_time": "2023-11-22T18:46:46.696Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "1",
+    "object_repr": "Чай",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 2,
+  "fields": {
+    "action_time": "2023-11-22T18:50:27.291Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "1",
+    "object_repr": "Зелений чай",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 3,
+  "fields": {
+    "action_time": "2023-11-23T04:07:24.599Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "1",
+    "object_repr": "Зелений чай",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 4,
+  "fields": {
+    "action_time": "2023-11-23T04:07:32.838Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "1",
+    "object_repr": "Зелений чай",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 5,
+  "fields": {
+    "action_time": "2023-11-23T04:09:59.463Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "1",
+    "object_repr": "Зелений чай",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 6,
+  "fields": {
+    "action_time": "2023-11-23T04:10:06.464Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "1",
+    "object_repr": "Зелений чай",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 7,
+  "fields": {
+    "action_time": "2023-11-23T04:10:11.759Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "1",
+    "object_repr": "Зелений чай",
+    "action_flag": 2,
+    "change_message": "[]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 8,
+  "fields": {
+    "action_time": "2023-11-23T04:19:55.093Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "2",
+    "object_repr": "Чорний чай",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 9,
+  "fields": {
+    "action_time": "2023-11-23T04:21:56.921Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "3",
+    "object_repr": "Чайний порошок",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 10,
+  "fields": {
+    "action_time": "2024-03-14T09:50:54.422Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "7",
+    "object_repr": "Order 7",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 11,
+  "fields": {
+    "action_time": "2024-03-14T09:50:54.534Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "6",
+    "object_repr": "Order 6",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 12,
+  "fields": {
+    "action_time": "2024-03-14T09:50:54.626Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "5",
+    "object_repr": "Order 5",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 13,
+  "fields": {
+    "action_time": "2024-03-14T09:50:54.708Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "4",
+    "object_repr": "Order 4",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 14,
+  "fields": {
+    "action_time": "2024-03-14T09:50:54.783Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "3",
+    "object_repr": "Order 3",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 15,
+  "fields": {
+    "action_time": "2024-03-14T09:50:54.850Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "2",
+    "object_repr": "Order 2",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 16,
+  "fields": {
+    "action_time": "2024-03-14T09:50:54.959Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "1",
+    "object_repr": "Order 1",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 17,
+  "fields": {
+    "action_time": "2024-03-15T12:28:40.121Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "9",
+    "object_repr": "Order 9",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Paid\", \"Stripe id\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 18,
+  "fields": {
+    "action_time": "2024-03-15T12:29:08.342Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "9",
+    "object_repr": "Order 9",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Paid\", \"Stripe id\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 19,
+  "fields": {
+    "action_time": "2024-03-15T12:39:32.265Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "10",
+    "object_repr": "Order 10",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Paid\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 20,
+  "fields": {
+    "action_time": "2024-03-15T12:40:07.774Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "10",
+    "object_repr": "Order 10",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Paid\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 21,
+  "fields": {
+    "action_time": "2024-03-15T13:47:36.657Z",
+    "user": 1,
+    "content_type": 11,
+    "object_id": "1",
+    "object_repr": "SUMMER",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 22,
+  "fields": {
+    "action_time": "2024-03-15T15:00:23.999Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "10",
+    "object_repr": "Order 10",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Paid\", \"Stripe id\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 23,
+  "fields": {
+    "action_time": "2024-03-15T15:00:46.128Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "10",
+    "object_repr": "Order 10",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Paid\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 24,
+  "fields": {
+    "action_time": "2024-03-15T15:01:06.296Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "10",
+    "object_repr": "Order 10",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Stripe id\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 25,
+  "fields": {
+    "action_time": "2024-03-15T15:23:59.313Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "11",
+    "object_repr": "Order 11",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Paid\", \"Stripe id\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 26,
+  "fields": {
+    "action_time": "2024-03-16T14:56:07.934Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "4",
+    "object_repr": "Білий чай",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 27,
+  "fields": {
+    "action_time": "2024-03-16T14:57:42.401Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "5",
+    "object_repr": "Жовтий чай",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 28,
+  "fields": {
+    "action_time": "2024-03-16T14:59:26.880Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "6",
+    "object_repr": "Улун",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 29,
+  "fields": {
+    "action_time": "2024-03-16T15:01:02.942Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "6",
+    "object_repr": "Улун",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 30,
+  "fields": {
+    "action_time": "2024-03-16T15:01:13.914Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "6",
+    "object_repr": "Улун",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 31,
+  "fields": {
+    "action_time": "2024-03-19T19:28:54.779Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "2",
+    "object_repr": "Кава",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 32,
+  "fields": {
+    "action_time": "2024-03-19T19:29:58.342Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "7",
+    "object_repr": "Арабіка",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 33,
+  "fields": {
+    "action_time": "2024-03-19T19:30:36.508Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "8",
+    "object_repr": "Робуста",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 34,
+  "fields": {
+    "action_time": "2024-03-19T19:31:22.614Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "9",
+    "object_repr": "Ліберіка",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 35,
+  "fields": {
+    "action_time": "2024-03-19T19:32:38.343Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "10",
+    "object_repr": "Ексцельса",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 36,
+  "fields": {
+    "action_time": "2024-03-19T19:33:01.880Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "9",
+    "object_repr": "Ліберіка",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Description\"]}}]"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 1,
+  "fields": {
+    "name": "Can add log entry",
+    "content_type": 1,
+    "codename": "add_logentry"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 2,
+  "fields": {
+    "name": "Can change log entry",
+    "content_type": 1,
+    "codename": "change_logentry"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 3,
+  "fields": {
+    "name": "Can delete log entry",
+    "content_type": 1,
+    "codename": "delete_logentry"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 4,
+  "fields": {
+    "name": "Can view log entry",
+    "content_type": 1,
+    "codename": "view_logentry"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 5,
+  "fields": {
+    "name": "Can add permission",
+    "content_type": 2,
+    "codename": "add_permission"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 6,
+  "fields": {
+    "name": "Can change permission",
+    "content_type": 2,
+    "codename": "change_permission"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 7,
+  "fields": {
+    "name": "Can delete permission",
+    "content_type": 2,
+    "codename": "delete_permission"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 8,
+  "fields": {
+    "name": "Can view permission",
+    "content_type": 2,
+    "codename": "view_permission"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 9,
+  "fields": {
+    "name": "Can add group",
+    "content_type": 3,
+    "codename": "add_group"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 10,
+  "fields": {
+    "name": "Can change group",
+    "content_type": 3,
+    "codename": "change_group"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 11,
+  "fields": {
+    "name": "Can delete group",
+    "content_type": 3,
+    "codename": "delete_group"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 12,
+  "fields": {
+    "name": "Can view group",
+    "content_type": 3,
+    "codename": "view_group"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 13,
+  "fields": {
+    "name": "Can add user",
+    "content_type": 4,
+    "codename": "add_user"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 14,
+  "fields": {
+    "name": "Can change user",
+    "content_type": 4,
+    "codename": "change_user"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 15,
+  "fields": {
+    "name": "Can delete user",
+    "content_type": 4,
+    "codename": "delete_user"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 16,
+  "fields": {
+    "name": "Can view user",
+    "content_type": 4,
+    "codename": "view_user"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 17,
+  "fields": {
+    "name": "Can add content type",
+    "content_type": 5,
+    "codename": "add_contenttype"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 18,
+  "fields": {
+    "name": "Can change content type",
+    "content_type": 5,
+    "codename": "change_contenttype"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 19,
+  "fields": {
+    "name": "Can delete content type",
+    "content_type": 5,
+    "codename": "delete_contenttype"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 20,
+  "fields": {
+    "name": "Can view content type",
+    "content_type": 5,
+    "codename": "view_contenttype"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 21,
+  "fields": {
+    "name": "Can add session",
+    "content_type": 6,
+    "codename": "add_session"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 22,
+  "fields": {
+    "name": "Can change session",
+    "content_type": 6,
+    "codename": "change_session"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 23,
+  "fields": {
+    "name": "Can delete session",
+    "content_type": 6,
+    "codename": "delete_session"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 24,
+  "fields": {
+    "name": "Can view session",
+    "content_type": 6,
+    "codename": "view_session"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 25,
+  "fields": {
+    "name": "Can add категорія",
+    "content_type": 7,
+    "codename": "add_category"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 26,
+  "fields": {
+    "name": "Can change категорія",
+    "content_type": 7,
+    "codename": "change_category"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 27,
+  "fields": {
+    "name": "Can delete категорія",
+    "content_type": 7,
+    "codename": "delete_category"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 28,
+  "fields": {
+    "name": "Can view категорія",
+    "content_type": 7,
+    "codename": "view_category"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 29,
+  "fields": {
+    "name": "Can add product",
+    "content_type": 8,
+    "codename": "add_product"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 30,
+  "fields": {
+    "name": "Can change product",
+    "content_type": 8,
+    "codename": "change_product"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 31,
+  "fields": {
+    "name": "Can delete product",
+    "content_type": 8,
+    "codename": "delete_product"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 32,
+  "fields": {
+    "name": "Can view product",
+    "content_type": 8,
+    "codename": "view_product"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 33,
+  "fields": {
+    "name": "Can add order",
+    "content_type": 9,
+    "codename": "add_order"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 34,
+  "fields": {
+    "name": "Can change order",
+    "content_type": 9,
+    "codename": "change_order"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 35,
+  "fields": {
+    "name": "Can delete order",
+    "content_type": 9,
+    "codename": "delete_order"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 36,
+  "fields": {
+    "name": "Can view order",
+    "content_type": 9,
+    "codename": "view_order"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 37,
+  "fields": {
+    "name": "Can add order item",
+    "content_type": 10,
+    "codename": "add_orderitem"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 38,
+  "fields": {
+    "name": "Can change order item",
+    "content_type": 10,
+    "codename": "change_orderitem"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 39,
+  "fields": {
+    "name": "Can delete order item",
+    "content_type": 10,
+    "codename": "delete_orderitem"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 40,
+  "fields": {
+    "name": "Can view order item",
+    "content_type": 10,
+    "codename": "view_orderitem"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 41,
+  "fields": {
+    "name": "Can add coupon",
+    "content_type": 11,
+    "codename": "add_coupon"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 42,
+  "fields": {
+    "name": "Can change coupon",
+    "content_type": 11,
+    "codename": "change_coupon"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 43,
+  "fields": {
+    "name": "Can delete coupon",
+    "content_type": 11,
+    "codename": "delete_coupon"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 44,
+  "fields": {
+    "name": "Can view coupon",
+    "content_type": 11,
+    "codename": "view_coupon"
+  }
+},
+{
+  "model": "auth.user",
+  "pk": 1,
+  "fields": {
+    "password": "pbkdf2_sha256$600000$tSnfsi1wsRYoQwPcSUOUIc$0v+8xgRRfkjXd2dB72bWpv6L2TI2HjZJbGmSi72QqU0=",
+    "last_login": "2024-03-19T19:28:26.806Z",
+    "is_superuser": true,
+    "username": "master",
+    "first_name": "",
+    "last_name": "",
+    "email": "house28101989@gmail.com",
+    "is_staff": true,
+    "is_active": true,
+    "date_joined": "2023-11-22T18:21:55.753Z",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 1,
+  "fields": {
+    "app_label": "admin",
+    "model": "logentry"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 2,
+  "fields": {
+    "app_label": "auth",
+    "model": "permission"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 3,
+  "fields": {
+    "app_label": "auth",
+    "model": "group"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 4,
+  "fields": {
+    "app_label": "auth",
+    "model": "user"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 5,
+  "fields": {
+    "app_label": "contenttypes",
+    "model": "contenttype"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 6,
+  "fields": {
+    "app_label": "sessions",
+    "model": "session"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 7,
+  "fields": {
+    "app_label": "shop",
+    "model": "category"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 8,
+  "fields": {
+    "app_label": "shop",
+    "model": "product"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 9,
+  "fields": {
+    "app_label": "orders",
+    "model": "order"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 10,
+  "fields": {
+    "app_label": "orders",
+    "model": "orderitem"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 11,
+  "fields": {
+    "app_label": "coupons",
+    "model": "coupon"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "lrmbdf3y5dyd5qaxk9fle46kzsh4cj36",
+  "fields": {
+    "session_data": "eyJjYXJ0Ijp7fX0:1raa4j:sBZgZNM2abaWfwjbQF1qtBDzTkLdFzsDBUdrYm2tijE",
+    "expire_date": "2024-02-29T11:38:45.579Z"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "qzv39jtwz3cuk0rrgfhy5pxp2alpvmbo",
+  "fields": {
+    "session_data": "eyJjYXJ0Ijp7fSwiY291cG9uX2lkIjoxfQ:1rmgF6:LRrpUe0y6z3cq_SPwqmMYO_Lw2fzKwRNkdg2Rn_1dCM",
+    "expire_date": "2024-04-02T20:39:28.248Z"
+  }
+},
+{
+  "model": "shop.category",
+  "pk": 1,
+  "fields": {
+    "name": "Чай",
+    "slug": "green-tea"
+  }
+},
+{
+  "model": "shop.category",
+  "pk": 2,
+  "fields": {
+    "name": "Кава",
+    "slug": "cofee"
+  }
+},
+{
+  "model": "shop.product",
+  "pk": 1,
+  "fields": {
+    "category": 1,
+    "name": "Зелений чай",
+    "slug": "green-tea",
+    "image": "products/2023/11/23/green-tea.jpg",
+    "description": "Зелений чай — ґатунок чаю, який досягається такою обробкою чайного листя: зав'ялювання + часткова сушка + скручування + досушування, також подрібнення (наприклад, у Японії). Основна задача при виготовленні зеленого чаю — зберегти його біологічно активні природні речовини, що містяться у чайному листі. Саме тому процес виготовлення цього різновиду чаю не «агресивний» та підпорядкований цілі збереження корисних речовин у листі — тобто це малоферментований або неферментований чай. Основний світовий виробник зеленого чаю, який його і подарував світові — Китай. Готовий висушений зелений чай повинен бути зеленого кольору, потемніння заварки до коричневого, темно-сірого чи бурого кольору — ознака неякісного чаю. Існує кілька сортів зеленого чаю, які суттєво відрізняються залежно від використовуваного сорту Camellia sinensis, умов вирощування, методів садівництва, обробки продукції та часу збору врожаю. Двома основними унікальними компонентами зеленого чаю є катехіни та теанін[en], і вплив цих компонентів на здоров'я привертає велику увагу в Японії та за кордоном. У зеленому чаї міститься велика кількість кофеїну і при тривалому заварюванні він може почати гірчити. Правильно заварений зелений чай містить унікальне поєднання вітамінів, мікроелементів та інших поживних речовин (наприклад, рослинних білків). Зелений чай здавна відомий як лікарський напій. Його застосовують для нормалізації артеріального тиску, зміцнення стінок судин та капілярів. Зелений чай сприяє зниженню ваги, покращує перетравлювання їжі, значно знижує ризик виникнення карієсу[джерело?], проте однозначних наукових доказів не має.",
+    "price": "30.00",
+    "available": true,
+    "created": "2023-11-22T18:50:27.289Z",
+    "updated": "2023-11-23T04:10:11.755Z"
+  }
+},
+{
+  "model": "shop.product",
+  "pk": 2,
+  "fields": {
+    "category": 1,
+    "name": "Чорний чай",
+    "slug": "red-tea",
+    "image": "products/2023/11/23/black_tea.jpg",
+    "description": "Чорний чай — вид чаю, який отримують шляхом повного або майже повного окиснення листа чайного куща. Китайські чорні чаї в Китаї називають червоними або багряними. Найвідомішими типами чорного чаю є: дарджилінг, асам, нілґірі (Індія), цейлонський (Шрі-Ланка), кімун, юньнань, лапсанг сушонг (Китай). Традиційно процес окиснення чайного листа при виробництві чорного чаю триває 2-4 тижні. Окиснення та скручування проходять у приміщеннях, захищених від сонця та зі штучно зволоженим повітрям. Листя для чорного чаю скручують, як правило, у палички (листовий чай) або подрібнюють (різаний чай). Чорні чаї високих ґатунків з Непалу та деяких індійських провінцій — Дарджилінгу, Сіккіму — хоча і називаються в Європі чорними, насправді мають у складі як чорне, так і зелене листя (англ. Orthodox tea).",
+    "price": "45.50",
+    "available": true,
+    "created": "2023-11-23T04:19:55.077Z",
+    "updated": "2023-11-23T04:19:55.077Z"
+  }
+},
+{
+  "model": "shop.product",
+  "pk": 3,
+  "fields": {
+    "category": 1,
+    "name": "Чайний порошок",
+    "slug": "tea-powder",
+    "image": "products/2023/11/23/tea_powder.jpg",
+    "description": "Матча (через англ. matcha від яп. 抹茶, まっちゃ, МФА: [matːɕa], маття/маччя — «порошковий чай») — різновид японського пропареного зеленого чаю, розтовченого у порошок розміром 1-3 мкм. Матча використовується під час японської чайної церемонії для приготування чаю, а також у японській кулінарії для приготування японських солодощів ваґаші, лікерів або морозива. Вона має гіркуватий присмак і духмяний запах. Техніка і спосіб приготування матчі були завезені до Японії наприкінці 12 століття з Китаю японським ченцем Ейсаєм. Починаючи з 14 століття китайці перестали використовувати цей вид чаю, проте японці продовжували його споживати. На основі матчі в Японії оформилась своєрідна культура чаювання, відома як «чайна церемонія». До 18 століття ця культура залишалася елітарною, недоступною широкому загалу. Чай матча готуюється шляхом додаванням окропу до чайного порошку і збивання його бамбуковим віничком. Залежно від типу листя, з якого приготована матча, а також співвідношення окропу і порошку, напій поділяють на 2 види: густий чай[3], який має темно-зелений, місцями чорнуватий, колір і гірко-солодкуватий смак, та рідкий чай[4], який має яскравий світло-зелений колір і гірко-в'язкий смак. Найвідомішими центрами виготовлення матчі в Японії є міста Удзі та Дзьойо у префектурі Кіото, та місто Нісіо у префектурі Айті.",
+    "price": "21.20",
+    "available": true,
+    "created": "2023-11-23T04:21:56.914Z",
+    "updated": "2023-11-23T04:21:56.914Z"
+  }
+},
+{
+  "model": "shop.product",
+  "pk": 4,
+  "fields": {
+    "category": 1,
+    "name": "Білий чай",
+    "slug": "white-tea",
+    "image": "products/2024/03/16/white-tea.jpg",
+    "description": "Білий чай - вважається максимально корисним. Слабкоферментованний (мінімальна обробка). Виготовляється для різних сортів або тільки з чайної тіпси або з додаванням 1-2 чайного листа. Настій білого чаю виходить прозорий, світло-жовтий з ніжним ароматом.",
+    "price": "26.30",
+    "available": true,
+    "created": "2024-03-16T14:56:07.933Z",
+    "updated": "2024-03-16T14:56:07.933Z"
+  }
+},
+{
+  "model": "shop.product",
+  "pk": 5,
+  "fields": {
+    "category": 1,
+    "name": "Жовтий чай",
+    "slug": "yellow-tea",
+    "image": "products/2024/03/16/yellow-tea.jpg",
+    "description": "Жовтий чай - виготовляється з високоякісної сировини з мінімальною ферментацією. Вважається досить рідкісним чаєм в країнах Європи. Найчастіше його можна зустріти на прилавках Китаю. Колір настою - прозорий, жовтувато-бурштиновий з солодкуватим смаком.",
+    "price": "45.30",
+    "available": true,
+    "created": "2024-03-16T14:57:42.391Z",
+    "updated": "2024-03-16T14:57:42.391Z"
+  }
+},
+{
+  "model": "shop.product",
+  "pk": 6,
+  "fields": {
+    "category": 1,
+    "name": "Улун",
+    "slug": "ulun-tea",
+    "image": "products/2024/03/16/ylun-tea.jpg",
+    "description": "Улун (оолонг) - напівферментований чай. Але по різновиди ферментації зустрічаються і сільноферментірованни, один з яких - Та Хун Пао (Великий червоний халат). Сировина для улунов використовується, як правило, з соковитих зрілих листя, зібраних з дорослих кущів. Настій при заварюванні світлих улунов - від бурштинового до салатового відтінку. Смак багатогранний - відчуваються квіткові, медові відтінки і нотки свіжих фруктів. Темні улун при заварюванні дають червоні відтінки настою. У смаку присутні пряні, ягідно-фруктові, шоколадні нотки, а аромат запашний і глибокий.",
+    "price": "55.20",
+    "available": true,
+    "created": "2024-03-16T14:59:26.872Z",
+    "updated": "2024-03-16T15:01:13.911Z"
+  }
+},
+{
+  "model": "shop.product",
+  "pk": 7,
+  "fields": {
+    "category": 2,
+    "name": "Арабіка",
+    "slug": "arabika",
+    "image": "products/2024/03/19/arabica.jpg",
+    "description": "Головний вид кави, володіє вираженим смаком і ароматом, який в повній мірі розкривається в процесі смаження. Арабіка перевершує інші види кави з точки зору масштабів експорту та попиту в споживанні. Кавові дерева арабіки дуже чутливі до погодних умов і хвороб, тому виробники кави постійно селекціонують її з метою вивести нові різновиди кавових дерев, які будуть сприятливо переносити зміни в кліматі. Внаслідок мутацій арабіки з'явилося близько 50 її сортів.",
+    "price": "125.00",
+    "available": true,
+    "created": "2024-03-19T19:29:58.340Z",
+    "updated": "2024-03-19T19:29:58.340Z"
+  }
+},
+{
+  "model": "shop.product",
+  "pk": 8,
+  "fields": {
+    "category": 2,
+    "name": "Робуста",
+    "slug": "robusta",
+    "image": "products/2024/03/19/robusta.jpg",
+    "description": "Другий за масштабами вирощування і вживання вид кави - це робуста. Назва цього виду кавового дерева \"robusta\" перекладається як \"сильний\". Кущі робусти стійкі до погодних умов і хвороб, невибагливі в догляді. На відміну від арабіки, це низькоросла рослина. Зерна арабіки більш овальні, робусти - округлі і мають виражений гіркий смак, оскільки містять велику кількість кофеїну. Тому в чистому вигляді робусту не вживають, і використовують в суміші з арабікою. Як правило, робуста набагато дешевше арабіки. У складі еспресо-суміші, робуста надає напою щільність, рівномірну пінку (крему) і підвищений вміст кофеїну. Найбільший експортер робусти – В'єтнам.",
+    "price": "85.30",
+    "available": true,
+    "created": "2024-03-19T19:30:36.495Z",
+    "updated": "2024-03-19T19:30:36.495Z"
+  }
+},
+{
+  "model": "shop.product",
+  "pk": 9,
+  "fields": {
+    "category": 2,
+    "name": "Ліберіка",
+    "slug": "liberika",
+    "image": "products/2024/03/19/liberica.jpg",
+    "description": "Якби існував конкурс краси серед кавових дерев, то ліберіка цілком могла б претендувати на корону переможниці. Красиве дерево, висотою 10 метрів з великими листками і квітами. Плоди ліберіки дозрівають більше року, - цілих 14 місяців. Дерева ліберіки ростуть тільки на північ від екватора. Цей вид кави дає невисокі врожаї, але є стійким до захворювань. Цей сорт не користується великим попитом, так як ліберіка - кава з порожнім смаком з гірким присмаком. Містить невелику кількість кофеїну, але має насичений кавовий аромат, тому набула широкого застосування в кондитерській справі. Цей ароматний сорт кави використовується в складі кавових сумішей.",
+    "price": "150.35",
+    "available": true,
+    "created": "2024-03-19T19:31:22.610Z",
+    "updated": "2024-03-19T19:33:01.878Z"
+  }
+},
+{
+  "model": "shop.product",
+  "pk": 10,
+  "fields": {
+    "category": 2,
+    "name": "Ексцельса",
+    "slug": "ekscelsa",
+    "image": "products/2024/03/19/excelsa.jpg",
+    "description": "Різновид ліберіки – кавове дерево ексцельса не боїться несприятливих погодних умов і стійко до хвороб. Смак кави багатий, а аромат насичений і обволікає. Єдиний вид кави, який міг би стати конкурентом арабіки. Міг би, але не став. А все через те, що його цвітіння непередбачувано, а урожай низький. Зерна ексцельса використовуються в поєднанні з арабікою, і відносяться до дорогого елітного сорту кави. Ексцельсу вирощують у В'єтнамі, на Філіппінах і в Індонезії. Основні регіони вирощування кавових зерен наведені нижче.",
+    "price": "138.36",
+    "available": true,
+    "created": "2024-03-19T19:32:38.333Z",
+    "updated": "2024-03-19T19:32:38.333Z"
+  }
+},
+{
+  "model": "orders.order",
+  "pk": 8,
+  "fields": {
+    "first_name": "Євгеній",
+    "last_name": "Хряпа",
+    "email": "house28101989@gmail.com",
+    "address": "м. Київ",
+    "postal_code": "17400",
+    "city": "м. Київ",
+    "created": "2024-03-09T04:20:42.121Z",
+    "updated": "2024-03-09T04:22:31.875Z",
+    "paid": true,
+    "stripe_id": "pi_3OsHQ2AFwwr4x13G0fcKY4Zp",
+    "coupon": null,
+    "discount": 0
+  }
+},
+{
+  "model": "orders.order",
+  "pk": 9,
+  "fields": {
+    "first_name": "Євгеній",
+    "last_name": "Хряпа",
+    "email": "house28101989@gmail.com",
+    "address": "м. Київ",
+    "postal_code": "17400",
+    "city": "м. Київ",
+    "created": "2024-03-15T12:12:04.595Z",
+    "updated": "2024-03-15T12:29:08.314Z",
+    "paid": false,
+    "stripe_id": "",
+    "coupon": null,
+    "discount": 0
+  }
+},
+{
+  "model": "orders.order",
+  "pk": 10,
+  "fields": {
+    "first_name": "Євгеній",
+    "last_name": "Хряпа",
+    "email": "house28101989@gmail.com",
+    "address": "м. Київ",
+    "postal_code": "17400",
+    "city": "м. Київ",
+    "created": "2024-03-15T12:35:52.707Z",
+    "updated": "2024-03-15T15:01:06.294Z",
+    "paid": false,
+    "stripe_id": "",
+    "coupon": null,
+    "discount": 0
+  }
+},
+{
+  "model": "orders.order",
+  "pk": 11,
+  "fields": {
+    "first_name": "Євгеній",
+    "last_name": "Хряпа",
+    "email": "house28101989@gmail.com",
+    "address": "м. Київ",
+    "postal_code": "17400",
+    "city": "м. Київ",
+    "created": "2024-03-15T15:21:26.423Z",
+    "updated": "2024-03-15T15:23:59.282Z",
+    "paid": true,
+    "stripe_id": "pi_3OucZFAFwwr4x13G3mTYr1Ha",
+    "coupon": null,
+    "discount": 0
+  }
+},
+{
+  "model": "orders.order",
+  "pk": 12,
+  "fields": {
+    "first_name": "Євгеній",
+    "last_name": "Хряпа",
+    "email": "house28101989@gmail.com",
+    "address": "м. Київ",
+    "postal_code": "17400",
+    "city": "м. Київ",
+    "created": "2024-03-15T15:27:07.286Z",
+    "updated": "2024-03-15T15:27:07.286Z",
+    "paid": false,
+    "stripe_id": "",
+    "coupon": null,
+    "discount": 0
+  }
+},
+{
+  "model": "orders.order",
+  "pk": 13,
+  "fields": {
+    "first_name": "Євгеній",
+    "last_name": "Хряпа",
+    "email": "house28101989@gmail.com",
+    "address": "м. Київ",
+    "postal_code": "17400",
+    "city": "м. Київ",
+    "created": "2024-03-15T15:32:47.293Z",
+    "updated": "2024-03-15T15:32:47.293Z",
+    "paid": false,
+    "stripe_id": "",
+    "coupon": null,
+    "discount": 0
+  }
+},
+{
+  "model": "orders.order",
+  "pk": 14,
+  "fields": {
+    "first_name": "Євгеній",
+    "last_name": "Хряпа",
+    "email": "house28101989@gmail.com",
+    "address": "м. Київ",
+    "postal_code": "17400",
+    "city": "м. Київ",
+    "created": "2024-03-15T16:13:33.439Z",
+    "updated": "2024-03-15T16:13:33.439Z",
+    "paid": false,
+    "stripe_id": "",
+    "coupon": null,
+    "discount": 0
+  }
+},
+{
+  "model": "orders.order",
+  "pk": 15,
+  "fields": {
+    "first_name": "Євгеній",
+    "last_name": "Хряпа",
+    "email": "house28101989@gmail.com",
+    "address": "м. Київ",
+    "postal_code": "17400",
+    "city": "м. Київ",
+    "created": "2024-03-15T16:20:38.811Z",
+    "updated": "2024-03-15T16:21:06.697Z",
+    "paid": true,
+    "stripe_id": "pi_3OudUZAFwwr4x13G3rWSlwpY",
+    "coupon": null,
+    "discount": 0
+  }
+},
+{
+  "model": "orders.order",
+  "pk": 16,
+  "fields": {
+    "first_name": "Євгеній",
+    "last_name": "Хряпа",
+    "email": "house28101989@gmail.com",
+    "address": "м. Київ",
+    "postal_code": "17400",
+    "city": "м. Київ",
+    "created": "2024-03-16T02:45:01.850Z",
+    "updated": "2024-03-16T02:45:35.323Z",
+    "paid": true,
+    "stripe_id": "pi_3OunEtAFwwr4x13G1Xc7xUBj",
+    "coupon": null,
+    "discount": 0
+  }
+},
+{
+  "model": "orders.order",
+  "pk": 17,
+  "fields": {
+    "first_name": "Євгеній",
+    "last_name": "Хряпа",
+    "email": "house28101989@gmail.com",
+    "address": "м. Київ",
+    "postal_code": "17400",
+    "city": "м. Київ",
+    "created": "2024-03-16T03:23:08.121Z",
+    "updated": "2024-03-16T03:23:08.121Z",
+    "paid": false,
+    "stripe_id": "",
+    "coupon": 1,
+    "discount": 10
+  }
+},
+{
+  "model": "orders.order",
+  "pk": 18,
+  "fields": {
+    "first_name": "Євгеній",
+    "last_name": "Хряпа",
+    "email": "house28101989@gmail.com",
+    "address": "м. Київ",
+    "postal_code": "17400",
+    "city": "м. Київ",
+    "created": "2024-03-16T03:31:23.036Z",
+    "updated": "2024-03-16T03:31:58.281Z",
+    "paid": true,
+    "stripe_id": "pi_3OunxmAFwwr4x13G0J4XkeED",
+    "coupon": 1,
+    "discount": 10
+  }
+},
+{
+  "model": "orders.orderitem",
+  "pk": 12,
+  "fields": {
+    "order": 8,
+    "product": 1,
+    "price": "30.00",
+    "quantity": 1
+  }
+},
+{
+  "model": "orders.orderitem",
+  "pk": 13,
+  "fields": {
+    "order": 9,
+    "product": 1,
+    "price": "30.00",
+    "quantity": 15
+  }
+},
+{
+  "model": "orders.orderitem",
+  "pk": 14,
+  "fields": {
+    "order": 10,
+    "product": 3,
+    "price": "21.20",
+    "quantity": 11
+  }
+},
+{
+  "model": "orders.orderitem",
+  "pk": 15,
+  "fields": {
+    "order": 10,
+    "product": 2,
+    "price": "45.50",
+    "quantity": 20
+  }
+},
+{
+  "model": "orders.orderitem",
+  "pk": 16,
+  "fields": {
+    "order": 11,
+    "product": 3,
+    "price": "21.20",
+    "quantity": 1
+  }
+},
+{
+  "model": "orders.orderitem",
+  "pk": 17,
+  "fields": {
+    "order": 12,
+    "product": 2,
+    "price": "45.50",
+    "quantity": 19
+  }
+},
+{
+  "model": "orders.orderitem",
+  "pk": 18,
+  "fields": {
+    "order": 13,
+    "product": 1,
+    "price": "30.00",
+    "quantity": 1
+  }
+},
+{
+  "model": "orders.orderitem",
+  "pk": 19,
+  "fields": {
+    "order": 13,
+    "product": 3,
+    "price": "21.20",
+    "quantity": 1
+  }
+},
+{
+  "model": "orders.orderitem",
+  "pk": 20,
+  "fields": {
+    "order": 13,
+    "product": 2,
+    "price": "45.50",
+    "quantity": 1
+  }
+},
+{
+  "model": "orders.orderitem",
+  "pk": 21,
+  "fields": {
+    "order": 14,
+    "product": 3,
+    "price": "21.20",
+    "quantity": 20
+  }
+},
+{
+  "model": "orders.orderitem",
+  "pk": 22,
+  "fields": {
+    "order": 15,
+    "product": 1,
+    "price": "30.00",
+    "quantity": 1
+  }
+},
+{
+  "model": "orders.orderitem",
+  "pk": 23,
+  "fields": {
+    "order": 16,
+    "product": 2,
+    "price": "45.50",
+    "quantity": 1
+  }
+},
+{
+  "model": "orders.orderitem",
+  "pk": 24,
+  "fields": {
+    "order": 16,
+    "product": 3,
+    "price": "21.20",
+    "quantity": 1
+  }
+},
+{
+  "model": "orders.orderitem",
+  "pk": 25,
+  "fields": {
+    "order": 16,
+    "product": 1,
+    "price": "30.00",
+    "quantity": 10
+  }
+},
+{
+  "model": "orders.orderitem",
+  "pk": 26,
+  "fields": {
+    "order": 17,
+    "product": 1,
+    "price": "30.00",
+    "quantity": 1
+  }
+},
+{
+  "model": "orders.orderitem",
+  "pk": 27,
+  "fields": {
+    "order": 18,
+    "product": 1,
+    "price": "30.00",
+    "quantity": 1
+  }
+},
+{
+  "model": "coupons.coupon",
+  "pk": 1,
+  "fields": {
+    "code": "SUMMER",
+    "valid_from": "2024-03-15T00:00:00Z",
+    "valid_to": "2029-03-15T00:00:00Z",
+    "discount": 10,
+    "active": true
+  }
+}
+]
